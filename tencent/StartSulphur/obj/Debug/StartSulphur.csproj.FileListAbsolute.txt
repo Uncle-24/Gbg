@@ -1,0 +1,6 @@
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StartSulphur\bin\Debug\StartSulphur.exe.config
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StartSulphur\bin\Debug\StartSulphur.exe
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StartSulphur\bin\Debug\StartSulphur.pdb
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StartSulphur\obj\Debug\StartSulphur.exe
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StartSulphur\obj\Debug\StartSulphur.pdb
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StartSulphur\obj\Debug\StartSulphur.csprojResolveAssemblyReference.cache

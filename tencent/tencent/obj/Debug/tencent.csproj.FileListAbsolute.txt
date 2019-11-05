@@ -1,0 +1,5 @@
+c:\users\v-xiqian\documents\visual studio 2015\Projects\tencent\tencent\bin\Debug\tencent.exe.config
+c:\users\v-xiqian\documents\visual studio 2015\Projects\tencent\tencent\bin\Debug\tencent.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\tencent\tencent\bin\Debug\tencent.pdb
+c:\users\v-xiqian\documents\visual studio 2015\Projects\tencent\tencent\obj\Debug\tencent.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\tencent\tencent\obj\Debug\tencent.pdb

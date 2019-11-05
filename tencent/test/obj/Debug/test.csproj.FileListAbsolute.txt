@@ -1,0 +1,6 @@
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\test\bin\Debug\test.exe.config
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\test\bin\Debug\test.exe
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\test\bin\Debug\test.pdb
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\test\obj\Debug\test.exe
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\test\obj\Debug\test.pdb
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\test\obj\Debug\test.csprojResolveAssemblyReference.cache

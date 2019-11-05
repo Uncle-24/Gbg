@@ -1,0 +1,6 @@
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testUsing\testUsing\bin\Debug\testUsing.exe.config
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testUsing\testUsing\bin\Debug\testUsing.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testUsing\testUsing\bin\Debug\testUsing.pdb
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testUsing\testUsing\obj\Debug\testUsing.csprojResolveAssemblyReference.cache
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testUsing\testUsing\obj\Debug\testUsing.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testUsing\testUsing\obj\Debug\testUsing.pdb

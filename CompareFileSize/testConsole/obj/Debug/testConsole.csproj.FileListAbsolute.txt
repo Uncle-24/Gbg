@@ -1,0 +1,5 @@
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\testConsole\bin\Debug\testConsole.exe.config
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\testConsole\bin\Debug\testConsole.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\testConsole\bin\Debug\testConsole.pdb
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\testConsole\obj\Debug\testConsole.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\testConsole\obj\Debug\testConsole.pdb

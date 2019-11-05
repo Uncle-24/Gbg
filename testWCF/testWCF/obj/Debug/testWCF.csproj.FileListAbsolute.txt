@@ -1,0 +1,6 @@
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testWCF\testWCF\bin\Debug\testWCF.exe.config
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testWCF\testWCF\bin\Debug\testWCF.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testWCF\testWCF\bin\Debug\testWCF.pdb
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testWCF\testWCF\obj\Debug\testWCF.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\testWCF\testWCF\obj\Debug\testWCF.pdb
+C:\Users\v-xiqian\Documents\visual studio 2015\Projects\testWCF\testWCF\obj\Debug\testWCF.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\v-xiqian\documents\visual studio 2015\Projects\FileSizeComp\FileSizeComp\bin\Debug\FileSizeComp.exe.config
+c:\users\v-xiqian\documents\visual studio 2015\Projects\FileSizeComp\FileSizeComp\bin\Debug\FileSizeComp.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\FileSizeComp\FileSizeComp\bin\Debug\FileSizeComp.pdb
+c:\users\v-xiqian\documents\visual studio 2015\Projects\FileSizeComp\FileSizeComp\obj\Debug\FileSizeComp.Form1.resources
+c:\users\v-xiqian\documents\visual studio 2015\Projects\FileSizeComp\FileSizeComp\obj\Debug\FileSizeComp.Properties.Resources.resources
+c:\users\v-xiqian\documents\visual studio 2015\Projects\FileSizeComp\FileSizeComp\obj\Debug\FileSizeComp.csproj.GenerateResource.Cache
+c:\users\v-xiqian\documents\visual studio 2015\Projects\FileSizeComp\FileSizeComp\obj\Debug\FileSizeComp.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\FileSizeComp\FileSizeComp\obj\Debug\FileSizeComp.pdb
+c:\users\v-xiqian\documents\visual studio 2015\Projects\FileSizeComp\FileSizeComp\obj\Debug\FileSizeComp.csprojResolveAssemblyReference.cache

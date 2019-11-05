@@ -1,0 +1,8 @@
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resource1.resources
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\v-xiqian\Documents\Visual Studio 2015\Projects\CompareFileSize\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

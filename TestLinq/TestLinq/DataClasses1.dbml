@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SulpHur" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=azuresulphur1;Initial Catalog=SulpHur;Integrated Security=True" SettingsObjectName="TestLinq.Properties.Settings" SettingsPropertyName="SulpHurConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Rules" Member="Rules">
+    <Type Name="Rules">
+      <Column Name="RuleID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RuleName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="RulePath" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="RuleDesc" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="IsEnabled" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="AssemblyInfo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsObsoluted" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

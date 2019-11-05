@@ -1,0 +1,5 @@
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\CompareFileSize\bin\Debug\CompareFileSize.exe.config
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\CompareFileSize\bin\Debug\CompareFileSize.exe
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\CompareFileSize\bin\Debug\CompareFileSize.pdb
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\CompareFileSize\obj\Debug\CompareFileSize.exe
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\CompareFileSize\CompareFileSize\obj\Debug\CompareFileSize.pdb

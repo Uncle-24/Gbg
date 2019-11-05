@@ -1,0 +1,6 @@
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StrComp\bin\Debug\StrComp.exe.config
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StrComp\bin\Debug\StrComp.exe
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StrComp\bin\Debug\StrComp.pdb
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StrComp\obj\Debug\StrComp.csprojResolveAssemblyReference.cache
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StrComp\obj\Debug\StrComp.exe
+C:\Users\v-xiqian\documents\visual studio 2015\Projects\tencent\StrComp\obj\Debug\StrComp.pdb

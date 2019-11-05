@@ -1,0 +1,2789 @@
+C:\Users\v-xiqian\Desktop\Data\AdminUI.UIResources.dll.lcl
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.Properties.Resources.resources
+Adress(Address;Address;Address)
+Alla objekt(All Items)
+Program(Applications;Program;Program;Program)
+Regel för automatisk distribution(Automatic Deployment Rule;Automatic Deployment Rule)
+Startavbildningsfil(Boot Image;Boot Image)
+Gräns(Boundary;Boundary)
+Gränsgrupp(Boundary Group;Boundary Group)
+Kategorisera(Categorize)
+Certifikat(Certificates;Certificates)
+##SUB(Bucket## från ##SUB;Bucket## - ##SUB;CollectionName##)
+XRX( 372764; 321635)
+Inställningar för klientinstallationer(Client Installation Settings)
+Push-installation av klient(Client Push Installation)
+Skapa objekt(Create Item)
+Databasreplikering(Database Replication;Database Replication;Database Replication)
+Distributionspaket(Deployment Package;Deployment Package)
+Distributionstyp(Deployment type;Deployment Type)
+Distributioner(Deployments;Deployments)
+Distributionsplats(Distribution Point)
+Drivrutin(Driver;Driver)
+Drivrutinspaket(Driver Package;Driver Package)
+Tillägg(Extensions)
+Feedback(Feedback)
+Importera(Import)
+Migreringsjobb(Migration Jobs;Migration Jobs)
+Migrering(Migration)
+Fler objekt(More Items)
+Aviseringar(Alerts;Notifications)
+Operativsystemavbildning(Operating System Image;Operating System Image)
+Operating System Installer(Operating System Upgrade Package;Operating System Upgrade Package)
+Skapa anslutning till Operations Management Suite(Create connection to Operations Management Suite)
+Paket(Package;Package;Packages)
+Egenskaper(Properties;Properties)
+Skapa anslutning till beredskapsdata(Create connection to Readiness data)
+Rapportering(Reporting)
+Software Update Point Client Installation(Software Update-Based Client Installation)
+Markerade objekt(Selected Items;Selected Items)
+Avsändare(Sender;Sender)
+Servrar med roll(Servers with Role;Servers with Role)
+Underhållsplan(Servicing Plan;Servicing Plan)
+MOR Bug 451504 Servicing consistency check(MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check)
+Manage Categories...(Manage Categories)
+Inställningar(Settings;Settings)
+Webbplats(Site;Site)
+Platsroll(Site Role;Site Role)
+Site Servicing Status(View the status of Configuration Manager updates you've installed in your hierarchy.)
+Platsstatus(Site Status)
+Platssystemserver(Site System Server;Site System Server)
+Programvaruinventering(Software Inventory)
+Ta bort det markerade objektet.(Delete the selected item.)
+Ta bort(Delete)
+Uppdatera(Refresh;Update)
+Frågor för statusmeddelanden(Status Message Queries)
+Synkronisera(Synchronize;Synchronize)
+Aktivitetssekvens(Task Sequence;Task Sequence)
+Verktyg(Tools)
+Licensed Applications(Licensed Apps)
+Visa(View)
+Virtual Hard Drive(Virtual Hard Disk;Virtual Hard Disk)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AISoftwareList.resources
+XRX( 315000; 315000; 315000)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AfwAccountStatus.resources
+Lägg till ett Android for Work-konto.(Add an Android for Work account.;Add an Android for Work account.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Alert.resources
+XRX( 314608; 314608)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEvent.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventDetect.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventMultipleInfection.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventOutbreak.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventReinfection.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AllItems_Name.resources
+Skärmupplösning(Display resolution;Screen resolution)
+Active Directory-plats(Site Active Directory)
+Configuration Manager-plats(Site Configuration Manager)
+Windows Mobile-klient(Windows Mobile Client)
+Windows XP Professional SP1 (64-bitar)(Windows XP Professional SP2 (64-bit))
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AntimalwareSettings-Type.resources
+Anpassad(Custom;Custom)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CFDFeature-State.resources
+Aktiverar tillägg ...(Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...)
+Inaktiverar tillägg ...(Disabling extension...;Disabling extension...)
+Tillgängligt(Available)
+Det gick inte att aktivera tillägg(Could not enable extension;Could not enable extension)
+Det gick inte att inaktivera tillägg(Could not disable extension)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CMSiteConfiguration-MessageId.resources
+ are missing.(The following Configuration Manager SQL Roles [{1}]5D;The following Configuration Manager SQL Roles [{1}]5D)
+SQL Server-portarna {1} för Configuration Manager är inte aktiva i undantag för brandväggen.(Configuration Manager SQL Server ports {1} is not active on Firewall exception.)
+Platsserverkontot {1} för Configuration Manager saknas.(Configuration Manager Site Server Account {1} is missing.)
+Filsökvägen för Configuration Manager-databasen är ogiltig.(Configuration Manager Database file location is invalid.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx-AgentEdition.resources
+Mac OS X(Mac OS X;Mac OS X)
+Okänt(Unknown)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+Client Check(Client Check Result Change)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CollectionMemberClientBaselineStatus.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentErrorDetailsPerAsset.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentNonCompliantStatus.resources
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary-FeatureType.resources
+Program(Application;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary.resources
+Program(Application;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeviceCollectionMember.resources
+Samlingar(Collections;Collections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GEH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_SYSTEM_PHYSICAL_MEMORY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_1394_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BASEBOARD.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BATTERY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BOOT_CONFIGURATION.resources
+Tillfällig katalog(Scratch Directory;Temp Directory)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CDROM.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CH_ClientSummary.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM_PRODUCT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP_MONITOR.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DEVICE_MEMORY_ADDRESS.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DISK.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DMA_CHANNEL.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DRIVER_VXD.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_ENVIRONMENT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IDE_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IRQ.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_KEYBOARD_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOAD_ORDER_GROUP.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOGICAL_DISK.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MICROSOFT_CLIENT_2_0.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MODEM_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MOTHERBOARD_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER_CONFIGURATION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_CLIENT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_LOGIN_PROFILE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NT_EVENTLOG_FILE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM-OSLanguage.resources
+Kinesiska (förenklad) - Kina(Chinese (Simplified) – PRC;Chinese (Simplified)– China)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OS_RECOVERY_CONFIGURATION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PAGE_FILE_SETTING.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARALLEL_PORT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARTITION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PCMCIA_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PC_BIOS.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PNP_DEVICE_DRIVER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POINTING_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORTABLE_BATTERY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POWER_SUPPLY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_CONFIGURATION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE-PrinterState.resources
+Pappersproblem(Page Punt;Paper Problem)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINT_JOB.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESS.resources
+Beskrivning(Caption;Description)
+Största storlek för aktiv sidmängd(Peak Working Set Size)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR-CpuStatus.resources
+Reserverat(Reserved;Reserved)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROTOCOL.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_QUICK_FIX_ENGINEERING.resources
+Beskrivning(Caption;Description)
+Installationsdatum(Installed On)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_REGISTRY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SCSI_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT_CONFIGURATION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERVICE.resources
+Beskrivning(Caption;Description)
+Status(Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SHARE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SOUND_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ACCOUNT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_DRIVER.resources
+Beskrivning(Caption;Description)
+Status(Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ENCLOSURE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TAPE_DRIVE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TIME_ZONE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_Threats-Category.resources
+Programvara för fjärrstyrning(Remote Control Software;Remote Control Software)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_VIDEO_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMCorpEnrollmentProfiles.resources
+Visa tilldelade enheter(Show Assigned Devices;Show Assigned Devices)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMDeviceThreat.resources
+Hotkälla(Threat Source;Threat Source)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MigrationJobEntityRelation-Message.resources
+Anpassade uppdateringar stöds inte för migrering. Publicera dem igen med System Center Updates Publisher.(Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.;Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.;Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.)
+Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager Preview(Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ObjectContainerNode.resources
+Sökbar mapp(Searchable folder;Searchable folder)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Package-Name.resources
+Klientpaket för Configuration Manager(Configuration Manager Client Package;Configuration Manager Client Package;Configuration Manager Client Package)
+Klientuppgraderingspaket för Configuration Manager(Configuration Manager Client Upgrade Package;Configuration Manager Client Upgrade Package)
+User State Migration Tool for Windows 8.1(User State Migration Tool for Windows 10;User State Migration Tool for Windows 10)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_R_System.resources
+Operativsystemversion(Operating System Build;Operating System Version)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ReplicationLinkSummary-SiteStatus.resources
+Länkexpansionsreplikering pågår(Site Expansion Replication In Progress;Site Expansion Replication In Progress)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SQLCmd.resources
+SQL-kommando(SQL Command;SQL Command)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse-SSLState.resources
+HTTPS(HTTPS;HTTPS)
+HTTP(HTTP)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse.resources
+Typ(Type;Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_AddressType.resources
+Adresstyp(Address Type;Address Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_SenderType.resources
+Avsändartyp(Sender Type;Sender Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SecondarySiteStatus-Description.resources
+Startinstallationstjänst för sekundär platsserver genomfördes(Secondary site server bootstrap installation service succeeded;Secondary site server bootstrap installation service succeeded)
+Det går inte att verifiera att den nödvändiga filen är MS-signerad()
+Det går inte att installera SMS Provider på en server som har en annan domän än platsservern.(Cannot install SMS Provider on a server which has different domain with the site server.)
+Det går inte att verifiera fil-hash för obligatorisk fil()
+Kontrollerar om SMS-providerdatorn har samma domän som platsservern.(Checks if SMS Provider machine has same domain as site server.)
+Tar bort registerposter för sekundär platsserver(Removing secondary site server registry entries)
+Tar bort Active Directory-objekt för sekundär platsserver(Removing secondary site server Active Directory objects)
+Client.msi-version och primär platsversion som klienten ska tilldela är inte kompatibla.(Client.msi version and the primary site version the client would assign to are not compatible.)
+Klientens automatiska uppgradering av uppgiften har schemalagts()
+Klientdistributionen väntar på klientinstallationsinnehåll från distributionspunkter.(Client deployment is waiting for client installation content from distributions points.)
+Påbörjar avinstallationen av befintlig plats(Begin uninstall of existing site)
+Den befintliga platsen har avinstallerats(Uninstall of existing site succeeded)
+Avinstallation av befintlig plats - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Uninstall of existing site - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att slutföra installationen av sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to complete secondary site server installation - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Installationen av sekundär platsserver slutfördes(Secondary site server installation completed)
+Initiera installation av sekundär platsserver(Initiate installation of secondary site server)
+ConfigMgr-installation - ogiltig platsserver(ConfigMgr Setup - Invalid Site Server)
+Databas för sekundär platsserver skapades(Creation of secondary site server database succeeded)
+Programfiler för sekundär platsserver togs bort(Secondary site server program files removed)
+Det går inte att ta bort programfiler för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to remove secondary site server program files - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Startplats för installations-CD för startinstallationstjänst för sekundär platsserver(Begin location of setup CD for secondary site server bootstrap installation service)
+Börja skapa databas för sekundär platsserver(Begin creation of secondary site server database)
+Tar bort databasen för sekundär platsserver(Removing secondary site server database)
+Det går inte att ta bort registerposter för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to remove secondary site server registry entries - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att replikera data från sekundär platsserver från primär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to replication secondary site server data from primary site server - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att installera komponenthanteringstjänsten för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to install secondary site server component manager service - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att överföra installationsfilerna för sekundär platsserver från primär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to transfer secondary site server installation files from parent primary site server - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att hämta och verifiera installationsfilerna - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to download and verify installation files  - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Replikering av data från sekundär platsserver från primär platsserver genomfördes(Replication of secondary site server data from primary site server succeeded)
+Starta replikering av data från sekundär platsserver från primär platsserver(Begin replication of secondary site server data from primary site server)
+Installationen av komponenthanteringstjänsten för sekundär platsserver genomfördes(Installation of secondary site server component manager service succeeded)
+Starta installationen av komponenthanteringstjänsten för sekundär platsserver(Begin installation of secondary site server component manager service)
+Starta installationen av komponenthanteraren för sekundär platsserver(Begin installation of secondary site server component manager)
+Registrera kontroller av sekundär platsserver(Register secondary site server controls)
+Tar bort programfiler för sekundär platsserver(Removing secondary site server program files)
+Tar bort filer för sekundär platsserver(Removing secondary site server files)
+Tar bort kataloger för inkorgen(Removing inbox directories)
+SMS-providerdatorn har samma domän som platsservern(SMS Provider machine has same domain as site server)
+SQL Server-version(SQL Server version)
+Tjänsterna för sekundär platsserver avinstallerades(Secondary site server services uninstalled)
+Det går inte att avinstallera tjänsterna för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten för den sekundära platsserverns systemenhet(Unable to uninstall secondary site server services - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att initiera startinstallationstjänsten för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to initiate secondary site server bootstrap installation service - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Initiera startinstallationstjänsten för sekundär platsserver(Initiate secondary site server bootstrap installation service)
+Det går inte att slutföra installationsutvärderingen av sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to successfully evaluate secondary site server installation - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Installationsutvärderingen av sekundär platsserver genomfördes(Evaluation of secondary site server installation succeeded)
+Initiering av startinstallationstjänst för sekundär platsserver genomfördes(Secondary site server bootstrap installation service initiation succeeded)
+Initierar installation av startinstallationstjänsterna för sekundär platsserver(Secondary site server bootstrap installation service initiating setup)
+Expandera installationsfilerna för sekundär platsserver(Decompress secondary site server installation files)
+Installationsfilerna för sekundär platsserver expanderades(Secondary site server installation file decompression succeeded)
+Initieringen av installationen av startinstallationstjänsten för sekundär platsserver genomfördes(Secondary site server bootstrap installation service initiating setup succeeded)
+Startar överföring av installationsfiler för sekundär platsserver från överordnad primär platsserver(Begin transfer of secondary site server installation files from parent primary site server)
+Överföring av installationsfiler för sekundär platsserver från överordnad primär platsserver genomförd(Transfer of secondary site server installation files from parent primary site server succeeded)
+Hämtade och verifierade installationsfiler(Downloaded and verified installation files)
+Verifies that the site database version to be upgraded is at least Configuration Manager 2012 SP1 CTP.(Verifies that the site database version to be upgraded is at least Configuration Manager 2012 SP1.)
+Kontrollera att de inbyggda samlingarna inte har ändrats(Verify that the built-in collections have not been modified)
+Starta hämtning och verifiering av installationsfiler(Begin downloading and verifying installation files)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Site.resources
+Status(Move Status;State)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SiteSystemSummarizer-Status-Icons.resources
+Starta automatiskt(Auto Starting;Auto Starting)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._AliasDeviceSecurityPolicyValue.resources
+Princip för osignerade program(Unsigned Applications Policy;Unsigned Applications Policy)
+Princip för osignerad CABS(Unsigned CABS Policy)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ArchitectureValue_.resources
+ARM-baserad enhet(ARM based Device;ARM based Device)
+Okänt(Unknown)
+x86(X86)
+x86-baserad dator(x86 based PC)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ClientID.resources
+Klient-ID(Client ID;Client ID)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberDevice.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberUser.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ComponentConfiguration_-ConfigurationName.resources
+Out of band-hantering(Out of Band Management;Out of Band Management;Out of Band Management)
+Hanteringsplats(Management Point)
+Email Settings(Email Notification)
+Medlemskapsutvärdering för samling(Collection Membership Evaluation)
+Operativsystemsdistribution(Operating System Deployment)
+Programvarudistribution(Software Distribution)
+Statusrapportering(Status Reporting)
+Systemhälsoverifierare(System Health Validator Point)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._DistributionStatus_.resources
+Det gick inte att hitta punkttjänst för molndistribution(Cloud distribution point service not found;Cloud distribution point service not found)
+Punkttjänst för molndistribution skapades(Cloud distribution point service was created)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._OptionalComponentName.resources
+Windows PowerShell(Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell)
+Nätverk(Network;Network;Network;Network;Network)
+Microsoft .NET(Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET)
+Installationsguiden(Setup;Setup;Setup;Setup;Setup;Setup;Setup)
+Skript(Scripting;Scripting;Scripting)
+Minne(Storage)
+Teckensnitt(Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts)
+HTML(HTML)
+Databas(Database)
+Filhantering(File management)
+Start(Startup)
+Återställning(Recovery)
+Säker start-cmdletar för Microsoft(Microsoft Secure Boot Cmdlets)
+
+
+C:\Users\v-xiqian\Desktop\Data\AdminUI.UIResources.dll.lcl
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.Properties.Resources.resources
+Adress(Address;Address;Address)
+Alla objekt(All Items)
+Program(Applications;Program;Program;Program)
+Regel för automatisk distribution(Automatic Deployment Rule;Automatic Deployment Rule)
+Startavbildningsfil(Boot Image;Boot Image)
+Gräns(Boundary;Boundary)
+Gränsgrupp(Boundary Group;Boundary Group)
+Kategorisera(Categorize)
+Certifikat(Certificates;Certificates)
+##SUB(Bucket## från ##SUB;Bucket## - ##SUB;CollectionName##)
+XRX( 372764; 321635)
+Inställningar för klientinstallationer(Client Installation Settings)
+Push-installation av klient(Client Push Installation)
+Skapa objekt(Create Item)
+Databasreplikering(Database Replication;Database Replication;Database Replication)
+Distributionspaket(Deployment Package;Deployment Package)
+Distributionstyp(Deployment type;Deployment Type)
+Distributioner(Deployments;Deployments)
+Distributionsplats(Distribution Point)
+Drivrutin(Driver;Driver)
+Drivrutinspaket(Driver Package;Driver Package)
+Tillägg(Extensions)
+Feedback(Feedback)
+Importera(Import)
+Migreringsjobb(Migration Jobs;Migration Jobs)
+Migrering(Migration)
+Fler objekt(More Items)
+Aviseringar(Alerts;Notifications)
+Operativsystemavbildning(Operating System Image;Operating System Image)
+Operating System Installer(Operating System Upgrade Package;Operating System Upgrade Package)
+Skapa anslutning till Operations Management Suite(Create connection to Operations Management Suite)
+Paket(Package;Package;Packages)
+Egenskaper(Properties;Properties)
+Skapa anslutning till beredskapsdata(Create connection to Readiness data)
+Rapportering(Reporting)
+Software Update Point Client Installation(Software Update-Based Client Installation)
+Markerade objekt(Selected Items;Selected Items)
+Avsändare(Sender;Sender)
+Servrar med roll(Servers with Role;Servers with Role)
+Underhållsplan(Servicing Plan;Servicing Plan)
+MOR Bug 451504 Servicing consistency check(MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check)
+Manage Categories...(Manage Categories)
+Inställningar(Settings;Settings)
+Webbplats(Site;Site)
+Platsroll(Site Role;Site Role)
+Site Servicing Status(View the status of Configuration Manager updates you've installed in your hierarchy.)
+Platsstatus(Site Status)
+Platssystemserver(Site System Server;Site System Server)
+Programvaruinventering(Software Inventory)
+Ta bort det markerade objektet.(Delete the selected item.)
+Ta bort(Delete)
+Uppdatera(Refresh;Update)
+Frågor för statusmeddelanden(Status Message Queries)
+Synkronisera(Synchronize;Synchronize)
+Aktivitetssekvens(Task Sequence;Task Sequence)
+Verktyg(Tools)
+Licensed Applications(Licensed Apps)
+Visa(View)
+Virtual Hard Drive(Virtual Hard Disk;Virtual Hard Disk)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AISoftwareList.resources
+XRX( 315000; 315000; 315000)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AfwAccountStatus.resources
+Lägg till ett Android for Work-konto.(Add an Android for Work account.;Add an Android for Work account.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Alert.resources
+XRX( 314608; 314608)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEvent.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventDetect.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventMultipleInfection.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventOutbreak.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventReinfection.resources
+Antal identifieringar(Detection Count;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AllItems_Name.resources
+Skärmupplösning(Display resolution;Screen resolution)
+Active Directory-plats(Site Active Directory)
+Configuration Manager-plats(Site Configuration Manager)
+Windows Mobile-klient(Windows Mobile Client)
+Windows XP Professional SP1 (64-bitar)(Windows XP Professional SP2 (64-bit))
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AntimalwareSettings-Type.resources
+Anpassad(Custom;Custom)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CFDFeature-State.resources
+Aktiverar tillägg ...(Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...)
+Inaktiverar tillägg ...(Disabling extension...;Disabling extension...)
+Tillgängligt(Available)
+Det gick inte att aktivera tillägg(Could not enable extension;Could not enable extension)
+Det gick inte att inaktivera tillägg(Could not disable extension)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CMSiteConfiguration-MessageId.resources
+ are missing.(The following Configuration Manager SQL Roles [{1}]5D;The following Configuration Manager SQL Roles [{1}]5D)
+SQL Server-portarna {1} för Configuration Manager är inte aktiva i undantag för brandväggen.(Configuration Manager SQL Server ports {1} is not active on Firewall exception.)
+Platsserverkontot {1} för Configuration Manager saknas.(Configuration Manager Site Server Account {1} is missing.)
+Filsökvägen för Configuration Manager-databasen är ogiltig.(Configuration Manager Database file location is invalid.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx-AgentEdition.resources
+Mac OS X(Mac OS X;Mac OS X)
+Okänt(Unknown)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+Client Check(Client Check Result Change)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CollectionMemberClientBaselineStatus.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentErrorDetailsPerAsset.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentNonCompliantStatus.resources
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary-FeatureType.resources
+Program(Application;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary.resources
+Program(Application;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeviceCollectionMember.resources
+Samlingar(Collections;Collections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GEH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_SYSTEM_PHYSICAL_MEMORY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_1394_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BASEBOARD.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BATTERY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BOOT_CONFIGURATION.resources
+Tillfällig katalog(Scratch Directory;Temp Directory)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CDROM.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CH_ClientSummary.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM_PRODUCT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP_MONITOR.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DEVICE_MEMORY_ADDRESS.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DISK.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DMA_CHANNEL.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DRIVER_VXD.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_ENVIRONMENT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IDE_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IRQ.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_KEYBOARD_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOAD_ORDER_GROUP.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOGICAL_DISK.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MICROSOFT_CLIENT_2_0.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MODEM_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MOTHERBOARD_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER_CONFIGURATION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_CLIENT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_LOGIN_PROFILE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NT_EVENTLOG_FILE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM-OSLanguage.resources
+Kinesiska (förenklad) - Kina(Chinese (Simplified) – PRC;Chinese (Simplified)– China)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OS_RECOVERY_CONFIGURATION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PAGE_FILE_SETTING.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARALLEL_PORT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARTITION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PCMCIA_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PC_BIOS.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PNP_DEVICE_DRIVER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POINTING_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORTABLE_BATTERY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POWER_SUPPLY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_CONFIGURATION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE-PrinterState.resources
+Pappersproblem(Page Punt;Paper Problem)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINT_JOB.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESS.resources
+Beskrivning(Caption;Description)
+Största storlek för aktiv sidmängd(Peak Working Set Size)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR-CpuStatus.resources
+Reserverat(Reserved;Reserved)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROTOCOL.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_QUICK_FIX_ENGINEERING.resources
+Beskrivning(Caption;Description)
+Installationsdatum(Installed On)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_REGISTRY.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SCSI_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT_CONFIGURATION.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERVICE.resources
+Beskrivning(Caption;Description)
+Status(Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SHARE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SOUND_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ACCOUNT.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_DRIVER.resources
+Beskrivning(Caption;Description)
+Status(Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ENCLOSURE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TAPE_DRIVE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TIME_ZONE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_Threats-Category.resources
+Programvara för fjärrstyrning(Remote Control Software;Remote Control Software)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_DEVICE.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_VIDEO_CONTROLLER.resources
+Beskrivning(Caption;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMCorpEnrollmentProfiles.resources
+Visa tilldelade enheter(Show Assigned Devices;Show Assigned Devices)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMDeviceThreat.resources
+Hotkälla(Threat Source;Threat Source)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MigrationJobEntityRelation-Message.resources
+Anpassade uppdateringar stöds inte för migrering. Publicera dem igen med System Center Updates Publisher.(Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.;Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.;Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.)
+Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager Preview(Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ObjectContainerNode.resources
+Sökbar mapp(Searchable folder;Searchable folder)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Package-Name.resources
+Klientpaket för Configuration Manager(Configuration Manager Client Package;Configuration Manager Client Package;Configuration Manager Client Package)
+Klientuppgraderingspaket för Configuration Manager(Configuration Manager Client Upgrade Package;Configuration Manager Client Upgrade Package)
+User State Migration Tool for Windows 8.1(User State Migration Tool for Windows 10;User State Migration Tool for Windows 10)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_R_System.resources
+Operativsystemversion(Operating System Build;Operating System Version)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ReplicationLinkSummary-SiteStatus.resources
+Länkexpansionsreplikering pågår(Site Expansion Replication In Progress;Site Expansion Replication In Progress)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SQLCmd.resources
+SQL-kommando(SQL Command;SQL Command)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse-SSLState.resources
+HTTPS(HTTPS;HTTPS)
+HTTP(HTTP)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse.resources
+Typ(Type;Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_AddressType.resources
+Adresstyp(Address Type;Address Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_SenderType.resources
+Avsändartyp(Sender Type;Sender Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SecondarySiteStatus-Description.resources
+Startinstallationstjänst för sekundär platsserver genomfördes(Secondary site server bootstrap installation service succeeded;Secondary site server bootstrap installation service succeeded)
+Det går inte att verifiera att den nödvändiga filen är MS-signerad()
+Det går inte att installera SMS Provider på en server som har en annan domän än platsservern.(Cannot install SMS Provider on a server which has different domain with the site server.)
+Det går inte att verifiera fil-hash för obligatorisk fil()
+Kontrollerar om SMS-providerdatorn har samma domän som platsservern.(Checks if SMS Provider machine has same domain as site server.)
+Tar bort registerposter för sekundär platsserver(Removing secondary site server registry entries)
+Tar bort Active Directory-objekt för sekundär platsserver(Removing secondary site server Active Directory objects)
+Client.msi-version och primär platsversion som klienten ska tilldela är inte kompatibla.(Client.msi version and the primary site version the client would assign to are not compatible.)
+Klientens automatiska uppgradering av uppgiften har schemalagts()
+Klientdistributionen väntar på klientinstallationsinnehåll från distributionspunkter.(Client deployment is waiting for client installation content from distributions points.)
+Påbörjar avinstallationen av befintlig plats(Begin uninstall of existing site)
+Den befintliga platsen har avinstallerats(Uninstall of existing site succeeded)
+Avinstallation av befintlig plats - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Uninstall of existing site - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att slutföra installationen av sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to complete secondary site server installation - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Installationen av sekundär platsserver slutfördes(Secondary site server installation completed)
+Initiera installation av sekundär platsserver(Initiate installation of secondary site server)
+ConfigMgr-installation - ogiltig platsserver(ConfigMgr Setup - Invalid Site Server)
+Databas för sekundär platsserver skapades(Creation of secondary site server database succeeded)
+Programfiler för sekundär platsserver togs bort(Secondary site server program files removed)
+Det går inte att ta bort programfiler för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to remove secondary site server program files - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Startplats för installations-CD för startinstallationstjänst för sekundär platsserver(Begin location of setup CD for secondary site server bootstrap installation service)
+Börja skapa databas för sekundär platsserver(Begin creation of secondary site server database)
+Tar bort databasen för sekundär platsserver(Removing secondary site server database)
+Det går inte att ta bort registerposter för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to remove secondary site server registry entries - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att replikera data från sekundär platsserver från primär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to replication secondary site server data from primary site server - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att installera komponenthanteringstjänsten för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to install secondary site server component manager service - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att överföra installationsfilerna för sekundär platsserver från primär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to transfer secondary site server installation files from parent primary site server - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att hämta och verifiera installationsfilerna - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to download and verify installation files  - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Replikering av data från sekundär platsserver från primär platsserver genomfördes(Replication of secondary site server data from primary site server succeeded)
+Starta replikering av data från sekundär platsserver från primär platsserver(Begin replication of secondary site server data from primary site server)
+Installationen av komponenthanteringstjänsten för sekundär platsserver genomfördes(Installation of secondary site server component manager service succeeded)
+Starta installationen av komponenthanteringstjänsten för sekundär platsserver(Begin installation of secondary site server component manager service)
+Starta installationen av komponenthanteraren för sekundär platsserver(Begin installation of secondary site server component manager)
+Registrera kontroller av sekundär platsserver(Register secondary site server controls)
+Tar bort programfiler för sekundär platsserver(Removing secondary site server program files)
+Tar bort filer för sekundär platsserver(Removing secondary site server files)
+Tar bort kataloger för inkorgen(Removing inbox directories)
+SMS-providerdatorn har samma domän som platsservern(SMS Provider machine has same domain as site server)
+SQL Server-version(SQL Server version)
+Tjänsterna för sekundär platsserver avinstallerades(Secondary site server services uninstalled)
+Det går inte att avinstallera tjänsterna för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten för den sekundära platsserverns systemenhet(Unable to uninstall secondary site server services - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att initiera startinstallationstjänsten för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to initiate secondary site server bootstrap installation service - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Initiera startinstallationstjänsten för sekundär platsserver(Initiate secondary site server bootstrap installation service)
+Det går inte att slutföra installationsutvärderingen av sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to successfully evaluate secondary site server installation - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Installationsutvärderingen av sekundär platsserver genomfördes(Evaluation of secondary site server installation succeeded)
+Initiering av startinstallationstjänst för sekundär platsserver genomfördes(Secondary site server bootstrap installation service initiation succeeded)
+Initierar installation av startinstallationstjänsterna för sekundär platsserver(Secondary site server bootstrap installation service initiating setup)
+Expandera installationsfilerna för sekundär platsserver(Decompress secondary site server installation files)
+Installationsfilerna för sekundär platsserver expanderades(Secondary site server installation file decompression succeeded)
+Initieringen av installationen av startinstallationstjänsten för sekundär platsserver genomfördes(Secondary site server bootstrap installation service initiating setup succeeded)
+Startar överföring av installationsfiler för sekundär platsserver från överordnad primär platsserver(Begin transfer of secondary site server installation files from parent primary site server)
+Överföring av installationsfiler för sekundär platsserver från överordnad primär platsserver genomförd(Transfer of secondary site server installation files from parent primary site server succeeded)
+Hämtade och verifierade installationsfiler(Downloaded and verified installation files)
+Verifies that the site database version to be upgraded is at least Configuration Manager 2012 SP1 CTP.(Verifies that the site database version to be upgraded is at least Configuration Manager 2012 SP1.)
+Kontrollera att de inbyggda samlingarna inte har ändrats(Verify that the built-in collections have not been modified)
+Starta hämtning och verifiering av installationsfiler(Begin downloading and verifying installation files)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Site.resources
+Status(Move Status;State)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SiteSystemSummarizer-Status-Icons.resources
+Starta automatiskt(Auto Starting;Auto Starting)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._AliasDeviceSecurityPolicyValue.resources
+Princip för osignerade program(Unsigned Applications Policy;Unsigned Applications Policy)
+Princip för osignerad CABS(Unsigned CABS Policy)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ArchitectureValue_.resources
+ARM-baserad enhet(ARM based Device;ARM based Device)
+Okänt(Unknown)
+x86(X86)
+x86-baserad dator(x86 based PC)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ClientID.resources
+Klient-ID(Client ID;Client ID)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberDevice.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberUser.resources
+Ja(Yes;Yes;Yes)
+Nej(No;No)
+Blockerad(Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ComponentConfiguration_-ConfigurationName.resources
+Out of band-hantering(Out of Band Management;Out of Band Management;Out of Band Management)
+Hanteringsplats(Management Point)
+Email Settings(Email Notification)
+Medlemskapsutvärdering för samling(Collection Membership Evaluation)
+Operativsystemsdistribution(Operating System Deployment)
+Programvarudistribution(Software Distribution)
+Statusrapportering(Status Reporting)
+Systemhälsoverifierare(System Health Validator Point)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._DistributionStatus_.resources
+Det gick inte att hitta punkttjänst för molndistribution(Cloud distribution point service not found;Cloud distribution point service not found)
+Punkttjänst för molndistribution skapades(Cloud distribution point service was created)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._OptionalComponentName.resources
+Windows PowerShell(Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell)
+Nätverk(Network;Network;Network;Network;Network)
+Microsoft .NET(Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET)
+Installationsguiden(Setup;Setup;Setup;Setup;Setup;Setup;Setup)
+Skript(Scripting;Scripting;Scripting)
+Minne(Storage)
+Teckensnitt(Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts)
+HTML(HTML)
+Databas(Database)
+Filhantering(File management)
+Start(Startup)
+Återställning(Recovery)
+Säker start-cmdletar för Microsoft(Microsoft Secure Boot Cmdlets)
+
+
+C:\Users\v-xiqian\Desktop\Data\AdminUI.UIResources.dll.lcl
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.Properties.Resources.resources
+Adress(Address;Address;Address;Address;Address)
+Alla objekt(All Items;All Items)
+Program(Applications;Applications;Program;Program;Program;Program;Program;Program)
+Regel för automatisk distribution(Automatic Deployment Rule;Automatic Deployment Rule;Automatic Deployment Rule;Automatic Deployment Rule)
+Startavbildningsfil(Boot Image;Boot Image;Boot Image;Boot Image)
+Gräns(Boundary;Boundary;Boundary;Boundary)
+Gränsgrupp(Boundary Group;Boundary Group;Boundary Group;Boundary Group)
+Kategorisera(Categorize;Categorize)
+Certifikat(Certificates;Certificates;Certificates;Certificates)
+##SUB(Bucket## från ##SUB;Bucket## från ##SUB;Bucket## - ##SUB;Bucket## - ##SUB;CollectionName##;CollectionName##)
+XRX( 372764; 372764; 321635; 321635)
+Inställningar för klientinstallationer(Client Installation Settings;Client Installation Settings)
+Push-installation av klient(Client Push Installation;Client Push Installation)
+Skapa objekt(Create Item;Create Item)
+Databasreplikering(Database Replication;Database Replication;Database Replication;Database Replication;Database Replication;Database Replication)
+Distributionspaket(Deployment Package;Deployment Package;Deployment Package;Deployment Package)
+Distributionstyp(Deployment type;Deployment type;Deployment Type;Deployment Type)
+Distributioner(Deployments;Deployments;Deployments;Deployments)
+Distributionsplats(Distribution Point;Distribution Point)
+Drivrutin(Driver;Driver;Driver;Driver)
+Drivrutinspaket(Driver Package;Driver Package;Driver Package;Driver Package)
+Tillägg(Extensions;Extensions)
+Feedback(Feedback;Feedback)
+Importera(Import;Import)
+Migreringsjobb(Migration Jobs;Migration Jobs;Migration Jobs;Migration Jobs)
+Migrering(Migration;Migration)
+Fler objekt(More Items;More Items)
+Aviseringar(Alerts;Alerts;Notifications;Notifications)
+Operativsystemavbildning(Operating System Image;Operating System Image;Operating System Image;Operating System Image)
+Operating System Installer(Operating System Upgrade Package;Operating System Upgrade Package;Operating System Upgrade Package;Operating System Upgrade Package)
+Skapa anslutning till Operations Management Suite(Create connection to Operations Management Suite;Create connection to Operations Management Suite)
+Paket(Package;Package;Package;Package;Packages;Packages)
+Egenskaper(Properties;Properties;Properties;Properties)
+Skapa anslutning till beredskapsdata(Create connection to Readiness data;Create connection to Readiness data)
+Rapportering(Reporting;Reporting)
+Software Update Point Client Installation(Software Update-Based Client Installation;Software Update-Based Client Installation)
+Markerade objekt(Selected Items;Selected Items;Selected Items;Selected Items)
+Avsändare(Sender;Sender;Sender;Sender)
+Servrar med roll(Servers with Role;Servers with Role;Servers with Role;Servers with Role)
+Underhållsplan(Servicing Plan;Servicing Plan;Servicing Plan;Servicing Plan)
+MOR Bug 451504 Servicing consistency check(MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check)
+Manage Categories...(Manage Categories;Manage Categories)
+Inställningar(Settings;Settings;Settings;Settings)
+Webbplats(Site;Site;Site;Site)
+Platsroll(Site Role;Site Role;Site Role;Site Role)
+Site Servicing Status(View the status of Configuration Manager updates you've installed in your hierarchy.;View the status of Configuration Manager updates you've installed in your hierarchy.)
+Platsstatus(Site Status;Site Status)
+Platssystemserver(Site System Server;Site System Server;Site System Server;Site System Server)
+Programvaruinventering(Software Inventory;Software Inventory)
+Ta bort det markerade objektet.(Delete the selected item.;Delete the selected item.)
+Ta bort(Delete;Delete)
+Uppdatera(Refresh;Refresh;Update;Update)
+Frågor för statusmeddelanden(Status Message Queries;Status Message Queries)
+Synkronisera(Synchronize;Synchronize;Synchronize;Synchronize)
+Aktivitetssekvens(Task Sequence;Task Sequence;Task Sequence;Task Sequence)
+Verktyg(Tools;Tools)
+Licensed Applications(Licensed Apps;Licensed Apps)
+Visa(View;View)
+Virtual Hard Drive(Virtual Hard Disk;Virtual Hard Disk;Virtual Hard Disk;Virtual Hard Disk)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AISoftwareList.resources
+XRX( 315000; 315000; 315000; 315000; 315000)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AfwAccountStatus.resources
+Lägg till ett Android for Work-konto.(Add an Android for Work account.;Add an Android for Work account.;Add an Android for Work account.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Alert.resources
+XRX( 314608; 314608; 314608)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEvent.resources
+Antal identifieringar(Detection Count;Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventDetect.resources
+Antal identifieringar(Detection Count;Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventMultipleInfection.resources
+Antal identifieringar(Detection Count;Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventOutbreak.resources
+Antal identifieringar(Detection Count;Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventReinfection.resources
+Antal identifieringar(Detection Count;Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AllItems_Name.resources
+Skärmupplösning(Display resolution;Screen resolution;Screen resolution)
+Active Directory-plats(Site Active Directory;Site Active Directory)
+Configuration Manager-plats(Site Configuration Manager;Site Configuration Manager)
+Windows Mobile-klient(Windows Mobile Client;Windows Mobile Client)
+Windows XP Professional SP1 (64-bitar)(Windows XP Professional SP2 (64-bit);Windows XP Professional SP2 (64-bit))
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AntimalwareSettings-Type.resources
+Anpassad(Custom;Custom;Custom)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CFDFeature-State.resources
+Aktiverar tillägg ...(Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...;Enabling extension...)
+Inaktiverar tillägg ...(Disabling extension...;Disabling extension...;Disabling extension...;Disabling extension...)
+Tillgängligt(Available;Available)
+Det gick inte att aktivera tillägg(Could not enable extension;Could not enable extension;Could not enable extension;Could not enable extension)
+Det gick inte att inaktivera tillägg(Could not disable extension;Could not disable extension)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CMSiteConfiguration-MessageId.resources
+ are missing.(The following Configuration Manager SQL Roles [{1}]5D;The following Configuration Manager SQL Roles [{1}]5D;The following Configuration Manager SQL Roles [{1}]5D)
+SQL Server-portarna {1} för Configuration Manager är inte aktiva i undantag för brandväggen.(Configuration Manager SQL Server ports {1} is not active on Firewall exception.;Configuration Manager SQL Server ports {1} is not active on Firewall exception.)
+Platsserverkontot {1} för Configuration Manager saknas.(Configuration Manager Site Server Account {1} is missing.;Configuration Manager Site Server Account {1} is missing.)
+Filsökvägen för Configuration Manager-databasen är ogiltig.(Configuration Manager Database file location is invalid.;Configuration Manager Database file location is invalid.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx-AgentEdition.resources
+Mac OS X(Mac OS X;Mac OS X;Mac OS X)
+Okänt(Unknown;Unknown)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx.resources
+Ja(Yes;Yes;Yes;Yes;Yes)
+Nej(No;No;No;No)
+Blockerad(Blocked;Blocked)
+Client Check(Client Check Result Change;Client Check Result Change)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CollectionMemberClientBaselineStatus.resources
+Ja(Yes;Yes;Yes;Yes;Yes)
+Nej(No;No;No;No)
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentErrorDetailsPerAsset.resources
+Beskrivning(Description;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentNonCompliantStatus.resources
+Status(Status;Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary-FeatureType.resources
+Program(Application;Program;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary.resources
+Program(Application;Program;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeviceCollectionMember.resources
+Samlingar(Collections;Collections;Collections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GEH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_SYSTEM_PHYSICAL_MEMORY.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_1394_CONTROLLER.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BASEBOARD.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BATTERY.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BOOT_CONFIGURATION.resources
+Tillfällig katalog(Scratch Directory;Temp Directory;Temp Directory)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CDROM.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CH_ClientSummary.resources
+Ja(Yes;Yes;Yes;Yes;Yes)
+Nej(No;No;No;No)
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM_PRODUCT.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP_MONITOR.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DEVICE_MEMORY_ADDRESS.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DISK.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DMA_CHANNEL.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DRIVER_VXD.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_ENVIRONMENT.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IDE_CONTROLLER.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IRQ.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_KEYBOARD_DEVICE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOAD_ORDER_GROUP.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOGICAL_DISK.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MICROSOFT_CLIENT_2_0.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MODEM_DEVICE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MOTHERBOARD_DEVICE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER_CONFIGURATION.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_CLIENT.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_LOGIN_PROFILE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NT_EVENTLOG_FILE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM-OSLanguage.resources
+Kinesiska (förenklad) - Kina(Chinese (Simplified) – PRC;Chinese (Simplified)– China;Chinese (Simplified)– China)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OS_RECOVERY_CONFIGURATION.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PAGE_FILE_SETTING.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARALLEL_PORT.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARTITION.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PCMCIA_CONTROLLER.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PC_BIOS.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PNP_DEVICE_DRIVER.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POINTING_DEVICE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORT.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORTABLE_BATTERY.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POWER_SUPPLY.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_CONFIGURATION.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE-PrinterState.resources
+Pappersproblem(Page Punt;Paper Problem;Paper Problem)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINT_JOB.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESS.resources
+Beskrivning(Caption;Description;Description)
+Största storlek för aktiv sidmängd(Peak Working Set Size;Peak Working Set Size)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR-CpuStatus.resources
+Reserverat(Reserved;Reserved;Reserved)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROTOCOL.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_QUICK_FIX_ENGINEERING.resources
+Beskrivning(Caption;Description;Description)
+Installationsdatum(Installed On;Installed On)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_REGISTRY.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SCSI_CONTROLLER.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT_CONFIGURATION.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERVICE.resources
+Beskrivning(Caption;Description;Description)
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SHARE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SOUND_DEVICE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ACCOUNT.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_DRIVER.resources
+Beskrivning(Caption;Description;Description)
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ENCLOSURE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TAPE_DRIVE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TIME_ZONE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_Threats-Category.resources
+Programvara för fjärrstyrning(Remote Control Software;Remote Control Software;Remote Control Software)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_CONTROLLER.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_DEVICE.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_VIDEO_CONTROLLER.resources
+Beskrivning(Caption;Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMCorpEnrollmentProfiles.resources
+Visa tilldelade enheter(Show Assigned Devices;Show Assigned Devices;Show Assigned Devices)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMDeviceThreat.resources
+Hotkälla(Threat Source;Threat Source;Threat Source)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MigrationJobEntityRelation-Message.resources
+Anpassade uppdateringar stöds inte för migrering. Publicera dem igen med System Center Updates Publisher.(Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.;Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.;Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.;Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.;Custom updates are not supported for migration. They must be published again by System Center Updates Publisher.)
+Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager Preview(Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager;Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ObjectContainerNode.resources
+Sökbar mapp(Searchable folder;Searchable folder;Searchable folder)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Package-Name.resources
+Klientpaket för Configuration Manager(Configuration Manager Client Package;Configuration Manager Client Package;Configuration Manager Client Package;Configuration Manager Client Package;Configuration Manager Client Package)
+Klientuppgraderingspaket för Configuration Manager(Configuration Manager Client Upgrade Package;Configuration Manager Client Upgrade Package;Configuration Manager Client Upgrade Package;Configuration Manager Client Upgrade Package)
+User State Migration Tool for Windows 8.1(User State Migration Tool for Windows 10;User State Migration Tool for Windows 10;User State Migration Tool for Windows 10;User State Migration Tool for Windows 10)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_R_System.resources
+Operativsystemversion(Operating System Build;Operating System Version;Operating System Version)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ReplicationLinkSummary-SiteStatus.resources
+Länkexpansionsreplikering pågår(Site Expansion Replication In Progress;Site Expansion Replication In Progress;Site Expansion Replication In Progress)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SQLCmd.resources
+SQL-kommando(SQL Command;SQL Command;SQL Command)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse-SSLState.resources
+HTTPS(HTTPS;HTTPS;HTTPS)
+HTTP(HTTP;HTTP)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse.resources
+Typ(Type;Type;Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_AddressType.resources
+Adresstyp(Address Type;Address Type;Address Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_SenderType.resources
+Avsändartyp(Sender Type;Sender Type;Sender Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SecondarySiteStatus-Description.resources
+Startinstallationstjänst för sekundär platsserver genomfördes(Secondary site server bootstrap installation service succeeded;Secondary site server bootstrap installation service succeeded;Secondary site server bootstrap installation service succeeded)
+Det går inte att verifiera att den nödvändiga filen är MS-signerad(;)
+Det går inte att installera SMS Provider på en server som har en annan domän än platsservern.(Cannot install SMS Provider on a server which has different domain with the site server.;Cannot install SMS Provider on a server which has different domain with the site server.)
+Det går inte att verifiera fil-hash för obligatorisk fil(;)
+Kontrollerar om SMS-providerdatorn har samma domän som platsservern.(Checks if SMS Provider machine has same domain as site server.;Checks if SMS Provider machine has same domain as site server.)
+Tar bort registerposter för sekundär platsserver(Removing secondary site server registry entries;Removing secondary site server registry entries)
+Tar bort Active Directory-objekt för sekundär platsserver(Removing secondary site server Active Directory objects;Removing secondary site server Active Directory objects)
+Client.msi-version och primär platsversion som klienten ska tilldela är inte kompatibla.(Client.msi version and the primary site version the client would assign to are not compatible.;Client.msi version and the primary site version the client would assign to are not compatible.)
+Klientens automatiska uppgradering av uppgiften har schemalagts(;)
+Klientdistributionen väntar på klientinstallationsinnehåll från distributionspunkter.(Client deployment is waiting for client installation content from distributions points.;Client deployment is waiting for client installation content from distributions points.)
+Påbörjar avinstallationen av befintlig plats(Begin uninstall of existing site;Begin uninstall of existing site)
+Den befintliga platsen har avinstallerats(Uninstall of existing site succeeded;Uninstall of existing site succeeded)
+Avinstallation av befintlig plats - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Uninstall of existing site - check ConfigMgrSetup.log in the root of the secondary site server system drive;Uninstall of existing site - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att slutföra installationen av sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to complete secondary site server installation - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to complete secondary site server installation - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Installationen av sekundär platsserver slutfördes(Secondary site server installation completed;Secondary site server installation completed)
+Initiera installation av sekundär platsserver(Initiate installation of secondary site server;Initiate installation of secondary site server)
+ConfigMgr-installation - ogiltig platsserver(ConfigMgr Setup - Invalid Site Server;ConfigMgr Setup - Invalid Site Server)
+Databas för sekundär platsserver skapades(Creation of secondary site server database succeeded;Creation of secondary site server database succeeded)
+Programfiler för sekundär platsserver togs bort(Secondary site server program files removed;Secondary site server program files removed)
+Det går inte att ta bort programfiler för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to remove secondary site server program files - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to remove secondary site server program files - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Startplats för installations-CD för startinstallationstjänst för sekundär platsserver(Begin location of setup CD for secondary site server bootstrap installation service;Begin location of setup CD for secondary site server bootstrap installation service)
+Börja skapa databas för sekundär platsserver(Begin creation of secondary site server database;Begin creation of secondary site server database)
+Tar bort databasen för sekundär platsserver(Removing secondary site server database;Removing secondary site server database)
+Det går inte att ta bort registerposter för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to remove secondary site server registry entries - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to remove secondary site server registry entries - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att replikera data från sekundär platsserver från primär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to replication secondary site server data from primary site server - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to replication secondary site server data from primary site server - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att installera komponenthanteringstjänsten för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to install secondary site server component manager service - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to install secondary site server component manager service - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att överföra installationsfilerna för sekundär platsserver från primär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to transfer secondary site server installation files from parent primary site server - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to transfer secondary site server installation files from parent primary site server - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att hämta och verifiera installationsfilerna - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to download and verify installation files  - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to download and verify installation files  - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Replikering av data från sekundär platsserver från primär platsserver genomfördes(Replication of secondary site server data from primary site server succeeded;Replication of secondary site server data from primary site server succeeded)
+Starta replikering av data från sekundär platsserver från primär platsserver(Begin replication of secondary site server data from primary site server;Begin replication of secondary site server data from primary site server)
+Installationen av komponenthanteringstjänsten för sekundär platsserver genomfördes(Installation of secondary site server component manager service succeeded;Installation of secondary site server component manager service succeeded)
+Starta installationen av komponenthanteringstjänsten för sekundär platsserver(Begin installation of secondary site server component manager service;Begin installation of secondary site server component manager service)
+Starta installationen av komponenthanteraren för sekundär platsserver(Begin installation of secondary site server component manager;Begin installation of secondary site server component manager)
+Registrera kontroller av sekundär platsserver(Register secondary site server controls;Register secondary site server controls)
+Tar bort programfiler för sekundär platsserver(Removing secondary site server program files;Removing secondary site server program files)
+Tar bort filer för sekundär platsserver(Removing secondary site server files;Removing secondary site server files)
+Tar bort kataloger för inkorgen(Removing inbox directories;Removing inbox directories)
+SMS-providerdatorn har samma domän som platsservern(SMS Provider machine has same domain as site server;SMS Provider machine has same domain as site server)
+SQL Server-version(SQL Server version;SQL Server version)
+Tjänsterna för sekundär platsserver avinstallerades(Secondary site server services uninstalled;Secondary site server services uninstalled)
+Det går inte att avinstallera tjänsterna för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten för den sekundära platsserverns systemenhet(Unable to uninstall secondary site server services - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to uninstall secondary site server services - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Det går inte att initiera startinstallationstjänsten för sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to initiate secondary site server bootstrap installation service - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to initiate secondary site server bootstrap installation service - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Initiera startinstallationstjänsten för sekundär platsserver(Initiate secondary site server bootstrap installation service;Initiate secondary site server bootstrap installation service)
+Det går inte att slutföra installationsutvärderingen av sekundär platsserver - kontrollera ConfigMgrSetup.log i roten av den sekundära platsserverns systemenhet(Unable to successfully evaluate secondary site server installation - check ConfigMgrSetup.log in the root of the secondary site server system drive;Unable to successfully evaluate secondary site server installation - check ConfigMgrSetup.log in the root of the secondary site server system drive)
+Installationsutvärderingen av sekundär platsserver genomfördes(Evaluation of secondary site server installation succeeded;Evaluation of secondary site server installation succeeded)
+Initiering av startinstallationstjänst för sekundär platsserver genomfördes(Secondary site server bootstrap installation service initiation succeeded;Secondary site server bootstrap installation service initiation succeeded)
+Initierar installation av startinstallationstjänsterna för sekundär platsserver(Secondary site server bootstrap installation service initiating setup;Secondary site server bootstrap installation service initiating setup)
+Expandera installationsfilerna för sekundär platsserver(Decompress secondary site server installation files;Decompress secondary site server installation files)
+Installationsfilerna för sekundär platsserver expanderades(Secondary site server installation file decompression succeeded;Secondary site server installation file decompression succeeded)
+Initieringen av installationen av startinstallationstjänsten för sekundär platsserver genomfördes(Secondary site server bootstrap installation service initiating setup succeeded;Secondary site server bootstrap installation service initiating setup succeeded)
+Startar överföring av installationsfiler för sekundär platsserver från överordnad primär platsserver(Begin transfer of secondary site server installation files from parent primary site server;Begin transfer of secondary site server installation files from parent primary site server)
+Överföring av installationsfiler för sekundär platsserver från överordnad primär platsserver genomförd(Transfer of secondary site server installation files from parent primary site server succeeded;Transfer of secondary site server installation files from parent primary site server succeeded)
+Hämtade och verifierade installationsfiler(Downloaded and verified installation files;Downloaded and verified installation files)
+Verifies that the site database version to be upgraded is at least Configuration Manager 2012 SP1 CTP.(Verifies that the site database version to be upgraded is at least Configuration Manager 2012 SP1.;Verifies that the site database version to be upgraded is at least Configuration Manager 2012 SP1.)
+Kontrollera att de inbyggda samlingarna inte har ändrats(Verify that the built-in collections have not been modified;Verify that the built-in collections have not been modified)
+Starta hämtning och verifiering av installationsfiler(Begin downloading and verifying installation files;Begin downloading and verifying installation files)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Site.resources
+Status(Move Status;State;State)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SiteSystemSummarizer-Status-Icons.resources
+Starta automatiskt(Auto Starting;Auto Starting;Auto Starting)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._AliasDeviceSecurityPolicyValue.resources
+Princip för osignerade program(Unsigned Applications Policy;Unsigned Applications Policy;Unsigned Applications Policy)
+Princip för osignerad CABS(Unsigned CABS Policy;Unsigned CABS Policy)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ArchitectureValue_.resources
+ARM-baserad enhet(ARM based Device;ARM based Device;ARM based Device)
+Okänt(Unknown;Unknown)
+x86(X86;X86)
+x86-baserad dator(x86 based PC;x86 based PC)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ClientID.resources
+Klient-ID(Client ID;Client ID;Client ID)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberDevice.resources
+Ja(Yes;Yes;Yes;Yes;Yes)
+Nej(No;No;No;No)
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberUser.resources
+Ja(Yes;Yes;Yes;Yes;Yes)
+Nej(No;No;No;No)
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ComponentConfiguration_-ConfigurationName.resources
+Out of band-hantering(Out of Band Management;Out of Band Management;Out of Band Management;Out of Band Management;Out of Band Management)
+Hanteringsplats(Management Point;Management Point)
+Email Settings(Email Notification;Email Notification)
+Medlemskapsutvärdering för samling(Collection Membership Evaluation;Collection Membership Evaluation)
+Operativsystemsdistribution(Operating System Deployment;Operating System Deployment)
+Programvarudistribution(Software Distribution;Software Distribution)
+Statusrapportering(Status Reporting;Status Reporting)
+Systemhälsoverifierare(System Health Validator Point;System Health Validator Point)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._DistributionStatus_.resources
+Det gick inte att hitta punkttjänst för molndistribution(Cloud distribution point service not found;Cloud distribution point service not found;Cloud distribution point service not found)
+Punkttjänst för molndistribution skapades(Cloud distribution point service was created;Cloud distribution point service was created)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._OptionalComponentName.resources
+Windows PowerShell(Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell;Windows PowerShell)
+Nätverk(Network;Network;Network;Network;Network;Network;Network;Network;Network;Network)
+Microsoft .NET(Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET;Microsoft .NET)
+Installationsguiden(Setup;Setup;Setup;Setup;Setup;Setup;Setup;Setup;Setup;Setup;Setup;Setup;Setup;Setup)
+Skript(Scripting;Scripting;Scripting;Scripting;Scripting;Scripting)
+Minne(Storage;Storage)
+Teckensnitt(Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts;Fonts)
+HTML(HTML;HTML)
+Databas(Database;Database)
+Filhantering(File management;File management)
+Start(Startup;Startup)
+Återställning(Recovery;Recovery)
+Säker start-cmdletar för Microsoft(Microsoft Secure Boot Cmdlets;Microsoft Secure Boot Cmdlets)
+
+
+C:\Users\v-xiqian\Desktop\Data\AdminUI.UIResources.dll.lcl
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.Properties.Resources.resources
+MOR Bug 451504 Servicing consistency check(MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AISoftwareList.resources
+XRX( 315000; 315000)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AfwAccountStatus.resources
+Lägg till ett Android for Work-konto.(Add an Android for Work account.;Add an Android for Work account.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Alert.resources
+XRX( 314608; 314608)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEvent.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventDetect.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventMultipleInfection.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventOutbreak.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventReinfection.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AllItems_Name.resources
+Windows XP Professional SP1 (64-bitar)(Windows XP Professional SP2 (64-bit);Windows XP Professional SP2 (64-bit))
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AntimalwareSettings-Type.resources
+Anpassad(Custom;Custom)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CFDFeature-State.resources
+Aktiverar tillägg ...(Enabling extension...;Enabling extension...)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CMSiteConfiguration-MessageId.resources
+Filsökvägen för Configuration Manager-databasen är ogiltig.(Configuration Manager Database file location is invalid.;Configuration Manager Database file location is invalid.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx-AgentEdition.resources
+Okänt(Unknown;Unknown)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx.resources
+Client Check(Client Check Result Change;Client Check Result Change)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CollectionMemberClientBaselineStatus.resources
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentErrorDetailsPerAsset.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentNonCompliantStatus.resources
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary-FeatureType.resources
+Program(Program;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary.resources
+Program(Program;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeviceCollectionMember.resources
+Samlingar(Collections;Collections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GEH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_SYSTEM_PHYSICAL_MEMORY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_1394_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BASEBOARD.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BATTERY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BOOT_CONFIGURATION.resources
+Tillfällig katalog(Temp Directory;Temp Directory)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CDROM.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CH_ClientSummary.resources
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM_PRODUCT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP_MONITOR.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DEVICE_MEMORY_ADDRESS.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DISK.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DMA_CHANNEL.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DRIVER_VXD.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_ENVIRONMENT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IDE_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IRQ.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_KEYBOARD_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOAD_ORDER_GROUP.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOGICAL_DISK.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MICROSOFT_CLIENT_2_0.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MODEM_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MOTHERBOARD_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER_CONFIGURATION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_CLIENT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_LOGIN_PROFILE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NT_EVENTLOG_FILE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM-OSLanguage.resources
+Kinesiska (förenklad) - Kina(Chinese (Simplified)– China;Chinese (Simplified)– China)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OS_RECOVERY_CONFIGURATION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PAGE_FILE_SETTING.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARALLEL_PORT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARTITION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PCMCIA_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PC_BIOS.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PNP_DEVICE_DRIVER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POINTING_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORTABLE_BATTERY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POWER_SUPPLY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_CONFIGURATION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE-PrinterState.resources
+Pappersproblem(Paper Problem;Paper Problem)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINT_JOB.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESS.resources
+Största storlek för aktiv sidmängd(Peak Working Set Size;Peak Working Set Size)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR-CpuStatus.resources
+Reserverat(Reserved;Reserved)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROTOCOL.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_QUICK_FIX_ENGINEERING.resources
+Installationsdatum(Installed On;Installed On)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_REGISTRY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SCSI_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT_CONFIGURATION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERVICE.resources
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SHARE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SOUND_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ACCOUNT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_DRIVER.resources
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ENCLOSURE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TAPE_DRIVE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TIME_ZONE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_Threats-Category.resources
+Programvara för fjärrstyrning(Remote Control Software;Remote Control Software)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_VIDEO_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMCorpEnrollmentProfiles.resources
+Visa tilldelade enheter(Show Assigned Devices;Show Assigned Devices)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMDeviceThreat.resources
+Hotkälla(Threat Source;Threat Source)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MigrationJobEntityRelation-Message.resources
+Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager Preview(Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager;Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ObjectContainerNode.resources
+Sökbar mapp(Searchable folder;Searchable folder)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Package-Name.resources
+User State Migration Tool for Windows 8.1(User State Migration Tool for Windows 10;User State Migration Tool for Windows 10)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_R_System.resources
+Operativsystemversion(Operating System Version;Operating System Version)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ReplicationLinkSummary-SiteStatus.resources
+Länkexpansionsreplikering pågår(Site Expansion Replication In Progress;Site Expansion Replication In Progress)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SQLCmd.resources
+SQL-kommando(SQL Command;SQL Command)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse-SSLState.resources
+HTTP(HTTP;HTTP)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse.resources
+Typ(Type;Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_AddressType.resources
+Adresstyp(Address Type;Address Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_SenderType.resources
+Avsändartyp(Sender Type;Sender Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SecondarySiteStatus-Description.resources
+Starta hämtning och verifiering av installationsfiler(Begin downloading and verifying installation files;Begin downloading and verifying installation files)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Site.resources
+Status(State;State)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SiteSystemSummarizer-Status-Icons.resources
+Starta automatiskt(Auto Starting;Auto Starting)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._AliasDeviceSecurityPolicyValue.resources
+Princip för osignerad CABS(Unsigned CABS Policy;Unsigned CABS Policy)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ArchitectureValue_.resources
+x86-baserad dator(x86 based PC;x86 based PC)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ClientID.resources
+Klient-ID(Client ID;Client ID)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberDevice.resources
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberUser.resources
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ComponentConfiguration_-ConfigurationName.resources
+Systemhälsoverifierare(System Health Validator Point;System Health Validator Point)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._DistributionStatus_.resources
+Punkttjänst för molndistribution skapades(Cloud distribution point service was created;Cloud distribution point service was created)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._OptionalComponentName.resources
+Teckensnitt(Fonts;Fonts)
+
+
+C:\Users\v-xiqian\Desktop\Data\AdminUI.UIResources.dll.lcl
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.Properties.Resources.resources
+MOR Bug 451504 Servicing consistency check(MOR Bug 451504 Servicing consistency check;MOR Bug 451504 Servicing consistency check)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AISoftwareList.resources
+XRX( 315000; 315000)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AfwAccountStatus.resources
+Lägg till ett Android for Work-konto.(Add an Android for Work account.;Add an Android for Work account.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Alert.resources
+XRX( 314608; 314608)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEvent.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventDetect.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventMultipleInfection.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventOutbreak.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AlertEventReinfection.resources
+Antal identifieringar(Number Of Detections;Number Of Detections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AllItems_Name.resources
+Windows XP Professional SP1 (64-bitar)(Windows XP Professional SP2 (64-bit);Windows XP Professional SP2 (64-bit))
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_AntimalwareSettings-Type.resources
+Anpassad(Custom;Custom)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CFDFeature-State.resources
+Aktiverar tillägg ...(Enabling extension...;Enabling extension...)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CMSiteConfiguration-MessageId.resources
+Filsökvägen för Configuration Manager-databasen är ogiltig.(Configuration Manager Database file location is invalid.;Configuration Manager Database file location is invalid.)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx-AgentEdition.resources
+Okänt(Unknown;Unknown)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CM_RES_COLL_xxx.resources
+Client Check(Client Check Result Change;Client Check Result Change)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_CollectionMemberClientBaselineStatus.resources
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentErrorDetailsPerAsset.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DCMDeploymentNonCompliantStatus.resources
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary-FeatureType.resources
+Program(Program;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeploymentSummary.resources
+Program(Program;Program)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_DeviceCollectionMember.resources
+Samlingar(Collections;Collections)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GEH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_GH_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_SYSTEM_PHYSICAL_MEMORY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_1394_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BASEBOARD.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BATTERY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_BOOT_CONFIGURATION.resources
+Tillfällig katalog(Temp Directory;Temp Directory)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CDROM.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_CH_ClientSummary.resources
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_COMPUTER_SYSTEM_PRODUCT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DESKTOP_MONITOR.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DEVICE_MEMORY_ADDRESS.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DISK.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DMA_CHANNEL.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_DRIVER_VXD.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_ENVIRONMENT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IDE_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_IRQ.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_KEYBOARD_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOAD_ORDER_GROUP.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_LOGICAL_DISK.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MICROSOFT_CLIENT_2_0.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MODEM_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_MOTHERBOARD_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_ADAPTER_CONFIGURATION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_CLIENT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NETWORK_LOGIN_PROFILE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_NT_EVENTLOG_FILE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM-OSLanguage.resources
+Kinesiska (förenklad) - Kina(Chinese (Simplified)– China;Chinese (Simplified)– China)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OPERATING_SYSTEM.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_OS_RECOVERY_CONFIGURATION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PAGE_FILE_SETTING.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARALLEL_PORT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PARTITION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PCMCIA_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PC_BIOS.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PNP_DEVICE_DRIVER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POINTING_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PORTABLE_BATTERY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_POWER_SUPPLY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_CONFIGURATION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE-PrinterState.resources
+Pappersproblem(Paper Problem;Paper Problem)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINTER_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PRINT_JOB.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESS.resources
+Största storlek för aktiv sidmängd(Peak Working Set Size;Peak Working Set Size)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR-CpuStatus.resources
+Reserverat(Reserved;Reserved)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROCESSOR.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_PROTOCOL.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_QUICK_FIX_ENGINEERING.resources
+Installationsdatum(Installed On;Installed On)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_REGISTRY.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SCSI_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERIAL_PORT_CONFIGURATION.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SERVICE.resources
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SHARE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SOUND_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ACCOUNT.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_CONSOLE_USER.resources
+Systemkonsolanvändare(System Console User;System Console User)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_DRIVER.resources
+Status(Status;Status)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_SYSTEM_ENCLOSURE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TAPE_DRIVE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_TIME_ZONE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_Threats-Category.resources
+Programvara för fjärrstyrning(Remote Control Software;Remote Control Software)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_USB_DEVICE.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_G_System_VIDEO_CONTROLLER.resources
+Beskrivning(Description;Description)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMCorpEnrollmentProfiles.resources
+Visa tilldelade enheter(Show Assigned Devices;Show Assigned Devices)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MDMDeviceThreat.resources
+Hotkälla(Threat Source;Threat Source)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_MigrationJobEntityRelation-Message.resources
+Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager Preview(Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager;Configuration Item contains XML which is no longer supported in System Center 2012 R2 Configuration Manager)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ObjectContainerNode.resources
+Sökbar mapp(Searchable folder;Searchable folder)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Package-Name.resources
+User State Migration Tool for Windows 8.1(User State Migration Tool for Windows 10;User State Migration Tool for Windows 10)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_R_System.resources
+Operativsystemversion(Operating System Version;Operating System Version)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_ReplicationLinkSummary-SiteStatus.resources
+Länkexpansionsreplikering pågår(Site Expansion Replication In Progress;Site Expansion Replication In Progress)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SQLCmd.resources
+SQL-kommando(SQL Command;SQL Command)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse-SSLState.resources
+HTTP(HTTP;HTTP)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SCI_SysResUse.resources
+Typ(Type;Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_AddressType.resources
+Adresstyp(Address Type;Address Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SIIB_SenderType.resources
+Avsändartyp(Sender Type;Sender Type)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SecondarySiteStatus-Description.resources
+Starta hämtning och verifiering av installationsfiler(Begin downloading and verifying installation files;Begin downloading and verifying installation files)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_Site.resources
+Status(State;State)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources.SMS_SiteSystemSummarizer-Status-Icons.resources
+Starta automatiskt(Auto Starting;Auto Starting)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._AliasDeviceSecurityPolicyValue.resources
+Princip för osignerad CABS(Unsigned CABS Policy;Unsigned CABS Policy)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ArchitectureValue_.resources
+x86-baserad dator(x86 based PC;x86 based PC)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ClientID.resources
+Klient-ID(Client ID;Client ID)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberDevice.resources
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._CollectionMemberUser.resources
+Blockerad(Blocked;Blocked)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._ComponentConfiguration_-ConfigurationName.resources
+Systemhälsoverifierare(System Health Validator Point;System Health Validator Point)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._DistributionStatus_.resources
+Punkttjänst för molndistribution skapades(Cloud distribution point service was created;Cloud distribution point service was created)
+
+
+;Microsoft.ConfigurationManagement.AdminConsole.UIResources._OptionalComponentName.resources
+Teckensnitt(Fonts;Fonts)
+
+
